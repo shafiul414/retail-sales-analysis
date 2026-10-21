@@ -1,56 +1,71 @@
-# retail-sales-analysis
-Retail sales analysis using Python, Pandas, and data visualization to explore product performance, sales trends, and customer insights.
-
-
-# Retail Sales Analysis Project
+# 📊 Retail Sales Analysis
 
 ## Project Overview
-This project analyzes retail sales data using Python and Pandas to explore sales performance, product trends, and business insights. The goal is to demonstrate practical data cleaning, data analysis, and reporting skills for a data analyst portfolio.
+This project analyzes retail sales data using Python to identify revenue trends, top-performing product categories, sales channel performance, and estimated profitability.
 
-## Objectives
-- Clean and prepare retail sales data for analysis.
-- Identify monthly sales trends.
-- Summarize sales performance.
-- Explore order statuses, products, and payment methods.
-- Develop data-driven recommendations for business decisions.
+The goal is to turn raw sales data into actionable business insights that can support better decision-making.
 
-## Tools and Technologies
-- **Python**
-- **Pandas**
-- **Jupyter Notebook**
-- **CSV datasets**
-- **GitHub**
+## 🎯 Business Objectives
+- Analyze monthly revenue trends.
+- Identify the highest-revenue product categories.
+- Compare revenue across sales channels.
+- Evaluate revenue and estimated profit by category.
+- Develop data-driven business recommendations.
 
-## Project Files
-- `retail_sales_analysis.ipynb` — Jupyter Notebook containing the analysis.
-- `retail_sales_cleaned.csv` — Cleaned retail sales dataset.
-- `monthly_sales.csv` — Monthly sales summary.
-- `sales_summary.csv` — Overall sales summary.
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-## Analysis Workflow
-1. Load and inspect the dataset.
-2. Check for missing values and duplicate records.
-3. Clean and standardize data where appropriate.
-4. Analyze sales trends and order statuses.
-5. Summarize results and identify business opportunities.
+## 📁 Dataset Overview
+The dataset contains 503 rows and 18 columns, including:
+- Order date and order ID
+- Customer segment and city
+- Product name and category
+- Quantity, unit price, and discount
+- Sales channel and payment method
+- Revenue and estimated profit
 
-## Key Findings
-Add your verified findings from the notebook here, such as:
-- Total sales or revenue, with the calculation clearly defined.
-- Best-performing month or product.
-- Distribution of delivered, cancelled, and returned orders.
-- Important data-quality issues discovered during cleaning.
+## 📈 Visualizations
+1. Monthly Revenue Trend
+2. Revenue by Product Category
+3. Revenue by Sales Channel
+4. Revenue vs. Estimated Profit by Category
 
-## Business Recommendations
-Based on the verified results, recommendations may include:
-- Monitor monthly sales trends to support inventory planning.
-- Investigate frequently returned or cancelled orders.
-- Focus on products with strong sales performance.
-- Improve the completeness and consistency of sales records.
+## 💡 Key Business Questions
+- How does revenue change over time?
+- Which product categories generate the most revenue?
+- Which sales channels perform best?
+- Which categories contribute the most estimated profit?
 
-## Data Limitations
-The dataset contains missing values, duplicate records, and inconsistent order-status formatting. Revenue calculations should clearly explain how cancelled and returned orders are handled. Findings should be interpreted in the context of these limitations.
+## 🔍 Key Findings
+The analysis identified Furniture as the top product category by revenue and Website as the leading sales channel by revenue.
 
-## Conclusion
-This project demonstrates a practical workflow for preparing, analyzing, and summarizing retail sales data with Python. It is part of my data analyst portfolio and showcases foundational data analysis skills.
+Further findings can be added from the monthly trend and profitability charts.
 
+## 💼 Business Recommendations
+- Monitor monthly revenue trends to identify strong and weak periods.
+- Review top-performing categories to guide inventory planning.
+- Evaluate sales channel performance when allocating marketing resources.
+- Compare estimated profit with revenue before deciding which products to promote.
+- Investigate unusually strong or weak months to identify potential business drivers.
+
+## ⚠️ Data Note
+Estimated profit depends on the cost estimates supplied in the dataset and should not be treated as verified accounting profit.
+
+## 🚀 How to Run
+1. Download or clone this repository.
+2. Install the required libraries:
+
+   `pip install pandas matplotlib seaborn jupyter`
+
+3. Open Jupyter Notebook.
+4. Open the Retail Sales Analysis notebook.
+5. Run the notebook cells in order.
+
+## 👤 Author
+**Mursalin Akash**
+
+This project was created as a data analytics portfolio project to demonstrate data cleaning, exploratory analysis, visualization, and business insight development.
