@@ -1,0 +1,504 @@
+order_id,order_date,customer_id,customer_segment,city,product_id,product_name,category,quantity,unit_price,discount_pct,sales_channel,payment_method,order_status,revenue_raw,estimated_cost_raw
+ORD-00001,2025-01-13,C1152,Small Business,Chattogram,P002,USB-C Hub,Electronics,2.0,34.5,0.0,Website,Card,Delivered,69.0,36.0
+ORD-00002,2025-01-16,C1167,Corporate,Sylhet,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Website,Mobile Banking,Cancelled,18.99,9.2
+ORD-00003,2025-08-03,C1179,Small Business,Rangpur,P009,Monitor Stand,Furniture,1.0,39.0,0.15,Website,Mobile Banking,Delivered,33.15,20.0
+ORD-00004,2025-05-23,C1092,Small Business,Dhaka,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.05,Retail Store,Card,Delivered,66.49,39.0
+ORD-00005,2025-05-16,C1021,Corporate,Sylhet,P010,Laptop Sleeve,Accessories,3.0,22.0,0.2,Website,Bank Transfer,Delivered,52.8,30.0
+ORD-00006,2025-11-18,C1170,Consumer,Chattogram,P005,Water Bottle,Lifestyle,2.0,15.0,0.05,Website,Card,Cancelled,28.5,11.0
+ORD-00007,2025-02-10,C1042,Small Business,Rajshahi,P005,Water Bottle,Lifestyle,3.0,15.0,0.0,Retail Store,Cash on Delivery,Delivered,45.0,16.5
+ORD-00008,2025-04-18,C1137,Corporate,Barishal,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.2,Website,Mobile Banking,Returned,111.98,78.0
+ORD-00009,2025-03-25,C1015,Consumer,Barishal,P004,Desk Lamp,Home Office,1.0,27.99,0.05,Mobile App,Cash on Delivery,Returned,26.59,14.5
+ORD-00010,2025-06-11,C1168,Small Business,Sylhet,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Marketplace,Mobile Banking,Delivered,18.99,9.2
+ORD-00011,2025-11-26,C1150,Small Business,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.05,Marketplace,Bank Transfer,Delivered,4.27,1.2
+ORD-00012,2025-04-23,C1029,Consumer,Khulna,P006,Mechanical Keyboard,Electronics,5.0,69.99,0.0,Website,Card,Cancelled,349.95,195.0
+ORD-00013,2025-12-15,C1142,Consumer,Khulna,P003,Notebook Set,Stationery,1.0,7.99,0.0,Retail Store,Cash on Delivery,Delivered,7.99,2.8
+ORD-00014,2025-12-16,C1112,Consumer,Rajshahi,P002,USB-C Hub,Electronics,3.0,34.5,0.05,Website,Cash on Delivery,Returned,98.32,54.0
+ORD-00015,2025-01-02,C1161,Small Business,Sylhet,P008,Office Chair,Furniture,4.0,149.0,0.2,Mobile App,Card,Delivered,476.8,368.0
+ORD-00016,2025-11-08,C1126,Consumer,Sylhet,P009,Monitor Stand,Furniture,1.0,39.0,0.05,Website,Cash on Delivery,Delivered,37.05,20.0
+ORD-00017,2025-07-05,C1022,Corporate,Dhaka,P002,USB-C Hub,Electronics,3.0,34.5,0.05,Mobile App,Card,Delivered,98.32,54.0
+ORD-00018,2025-02-05,C1068,Corporate,Chattogram,P008,Office Chair,Furniture,5.0,149.0,0.15,Retail Store,Mobile Banking,Delivered,633.25,460.0
+ORD-00019,2025-08-05,C1103,Corporate,Barishal,P010,Laptop Sleeve,Accessories,4.0,22.0,0.15,Mobile App,Cash on Delivery,Returned,74.8,40.0
+ORD-00020,2025-08-13,C1087,Consumer,Chattogram,P006,Mechanical Keyboard,Electronics,3.0,69.99,0.1,Mobile App,Card,Delivered,188.97,117.0
+ORD-00021,2025-10-11,C1018,Consumer,Dhaka,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Website,Mobile Banking,Delivered,22.0,10.0
+ORD-00022,2025-02-06,C1147,Corporate,Khulna,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.05,Mobile App,Mobile Banking,Returned,132.98,78.0
+ORD-00023,2025-05-05,C1091,Small Business,Dhaka,P008,Office Chair,Furniture,3.0,149.0,0.1,Website,Bank Transfer,Delivered,402.3,276.0
+ORD-00024,2025-08-28,C1104,Corporate,Barishal,P007,Ballpoint Pens,Stationery,3.0,4.5,0.0,Website,Card,Returned,13.5,3.6
+ORD-00025,2025-02-25,C1047,Small Business,Khulna,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Mobile App,Bank Transfer,Cancelled,69.99,39.0
+ORD-00026,2025-05-08,C1167,Corporate,Rangpur,P008,Office Chair,Furniture,3.0,149.0,0.0,Website,Card,Delivered,447.0,276.0
+ORD-00027,2025-02-17,C1055,Small Business,Khulna,P001,Wireless Mouse,Electronics,4.0,18.99,0.0,Retail Store,Bank Transfer,Delivered,75.96,36.8
+ORD-00028,2025-03-26,C1109,Corporate,Rangpur,P001,Wireless Mouse,Electronics,1.0,18.99,0.1,Retail Store,Cash on Delivery,Delivered,17.09,9.2
+ORD-00029,2025-12-05,C1149,Corporate,Rajshahi,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Mobile App,Card,Delivered,78.0,40.0
+ORD-00030,2025-02-01,C1015,Corporate,Sylhet,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Retail Store,Mobile Banking,Delivered,78.0,40.0
+ORD-00031,2025-04-06,C1031,Corporate,Rangpur,P002,USB-C Hub,Electronics,1.0,34.5,0.0,Mobile App,Bank Transfer,Returned,34.5,18.0
+ORD-00032,2025-10-24,C1053,Corporate,Khulna,P004,Desk Lamp,Home Office,2.0,27.99,0.15,Marketplace,Cash on Delivery,Delivered,47.58,29.0
+ORD-00033,2025-05-03,C1081,Consumer,Barishal,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Marketplace,Bank Transfer,Returned,69.99,39.0
+ORD-00034,2025-08-23,C1034,Small Business,Dhaka,P001,Wireless Mouse,Electronics,2.0,18.99,0.15,Mobile App,Cash on Delivery,Delivered,32.28,18.4
+ORD-00035,2025-05-06,C1171,Corporate,Rangpur,P002,USB-C Hub,Electronics,1.0,34.5,0.0,Marketplace,Card,Delivered,34.5,18.0
+ORD-00036,2025-12-06,C1070,Small Business,Dhaka,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Website,Mobile Banking,Delivered,15.0,5.5
+ORD-00037,2025-04-18,C1065,Consumer,Barishal,P010,Laptop Sleeve,Accessories,2.0,22.0,0.0,Marketplace,Bank Transfer,Returned,44.0,20.0
+ORD-00038,2025-11-21,C1164,Small Business,Dhaka,P002,USB-C Hub,Electronics,1.0,34.5,0.05,Marketplace,Mobile Banking,Delivered,32.77,18.0
+ORD-00039,2025-08-15,C1177,Consumer,Dhaka,P003,Notebook Set,Stationery,2.0,7.99,0.1,Website,Card,Cancelled,14.38,5.6
+ORD-00040,2025-01-19,C1011,Small Business,Chattogram,P009,Monitor Stand,Furniture,3.0,39.0,0.15,Retail Store,Mobile Banking,Cancelled,99.45,60.0
+ORD-00041,2025-01-21,C1144,Small Business,Chattogram,P006,Mechanical Keyboard,Electronics,3.0,69.99,0.0,Website,Cash on Delivery,Returned,209.97,117.0
+ORD-00042,2025-03-21,C1007,Consumer,Rangpur,P010,Laptop Sleeve,Accessories,4.0,22.0,0.0,Mobile App,Bank Transfer,Delivered,88.0,40.0
+ORD-00043,2025-07-30,C1098,Consumer,Rajshahi,P006,Mechanical Keyboard,Electronics,3.0,69.99,0.2,Mobile App,Card,Delivered,167.98,117.0
+ORD-00044,2025-04-24,C1007,Corporate,Rajshahi,P008,Office Chair,Furniture,1.0,149.0,0.1,Mobile App,Mobile Banking,Delivered,134.1,92.0
+ORD-00045,2025-07-24,C1008,Consumer,Rajshahi,P004,Desk Lamp,Home Office,1.0,27.99,0.0,Retail Store,Cash on Delivery,Delivered,27.99,14.5
+ORD-00046,2025-04-02,C1081,Small Business,Dhaka,P005,Water Bottle,Lifestyle,2.0,15.0,0.05,Retail Store,Cash on Delivery,Delivered,28.5,11.0
+ORD-00047,2025-09-19,C1001,Corporate,Rajshahi,P010,Laptop Sleeve,Accessories,1.0,22.0,0.15,Website,Bank Transfer,Delivered,18.7,10.0
+ORD-00048,2025-12-18,C1111,Consumer,Barishal,P009,Monitor Stand,Furniture,2.0,39.0,0.2,Mobile App,Cash on Delivery,Returned,62.4,40.0
+ORD-00049,2025-11-16,C1084,Small Business,Rajshahi,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Marketplace,Bank Transfer,Returned,69.99,39.0
+ORD-00050,2025-10-11,C1104,Corporate,Khulna,P005,Water Bottle,Lifestyle,1.0,15.0,0.1,Mobile App,Cash on Delivery,Returned,13.5,5.5
+ORD-00051,2025-06-05,C1114,Small Business,Sylhet,P001,Wireless Mouse,Electronics,1.0,18.99,0.1,Marketplace,Bank Transfer,Cancelled,17.09,9.2
+ORD-00052,2025-09-19,C1132,Corporate,Barishal,P004,Desk Lamp,Home Office,1.0,27.99,0.2,Website,Cash on Delivery,Delivered,22.39,14.5
+ORD-00053,2025-06-21,C1038,Consumer,Rajshahi,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Mobile App,Mobile Banking,Returned,22.0,10.0
+ORD-00054,2025-05-06,C1179,Small Business,Khulna,P001,Wireless Mouse,Electronics,5.0,18.99,0.15,Retail Store,Mobile Banking,Delivered,80.71,46.0
+ORD-00055,2025-07-24,C1057,Consumer,Dhaka,P008,Office Chair,Furniture,1.0,149.0,0.2,Website,Bank Transfer,Returned,119.2,92.0
+ORD-00056,2025-08-26,C1171,Corporate,Khulna,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Mobile App,Bank Transfer,Delivered,39.0,20.0
+ORD-00057,2025-11-01,C1041,Corporate,Rangpur,P009,Monitor Stand,Furniture,1.0,39.0,0.1,Retail Store,Bank Transfer,Cancelled,35.1,20.0
+ORD-00058,2025-08-19,C1071,Small Business,Rajshahi,P008,Office Chair,Furniture,1.0,149.0,0.0,Retail Store,Mobile Banking,Returned,149.0,92.0
+ORD-00059,2025-05-27,C1039,Consumer,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.05,Website,Mobile Banking,Delivered,32.77,18.0
+ORD-00060,2025-12-22,C1139,Small Business,Khulna,P007,Ballpoint Pens,Stationery,1.0,4.5,0.0,Retail Store,Cash on Delivery,Delivered,4.5,1.2
+ORD-00061,2025-02-01,C1123,Consumer,Rangpur,P007,Ballpoint Pens,Stationery,1.0,4.5,0.1,Website,Bank Transfer,Delivered,4.05,1.2
+ORD-00062,2025-06-02,C1057,Small Business,Barishal,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.1,Mobile App,Bank Transfer,Cancelled,125.98,78.0
+ORD-00063,2025-09-06,C1120,Consumer,Barishal,P007,Ballpoint Pens,Stationery,1.0,4.5,0.05,Retail Store,Mobile Banking,Returned,4.27,1.2
+ORD-00064,2025-10-01,C1165,Small Business,Sylhet,P010,Laptop Sleeve,Accessories,1.0,22.0,0.1,Website,Card,Cancelled,19.8,10.0
+ORD-00065,2025-08-25,C1084,Small Business,Rajshahi,P003,Notebook Set,Stationery,1.0,7.99,0.05,Mobile App,Bank Transfer,Delivered,7.59,2.8
+ORD-00066,2025-05-23,C1005,Corporate,Rangpur,P007,Ballpoint Pens,Stationery,2.0,4.5,0.1,Website,Bank Transfer,Delivered,8.1,2.4
+ORD-00067,2025-01-27,C1008,Consumer,Barishal,P009,Monitor Stand,Furniture,5.0,39.0,0.05,Website,Card,delivered,185.25,100.0
+ORD-00068,2025-01-11,C1120,Corporate,Khulna,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Website,Mobile Banking,Delivered,55.98,29.0
+ORD-00069,2025-07-08,C1080,Consumer,Barishal,P005,Water Bottle,Lifestyle,1.0,15.0,0.15,Website,Mobile Banking,Returned,12.75,5.5
+ORD-00070,2025-01-14,C1020,Corporate,Khulna,P010,Laptop Sleeve,Accessories,4.0,22.0,0.15,Retail Store,Mobile Banking,Returned,74.8,40.0
+ORD-00071,2025-02-22,C1089,Corporate,Sylhet,P004,Desk Lamp,Home Office,2.0,27.99,0.05,Website ,Card,Returned,53.18,29.0
+ORD-00072,2025-12-05,C1126,Consumer,Rajshahi,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Website,Bank Transfer,Returned,3.82,1.2
+ORD-00073,2025-07-05,C1134,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,2.0,4.5,0.1,Retail Store,Mobile Banking,Returned,8.1,2.4
+ORD-00074,2025-11-12,C1083,Consumer,Khulna,P005,Water Bottle,Lifestyle,3.0,15.0,0.15,Retail Store,Cash on Delivery,Delivered,38.25,16.5
+ORD-00075,2025-05-23,C1008,Small Business,Sylhet,P002,USB-C Hub,Electronics,3.0,34.5,0.0,Retail Store,Cash on Delivery,Delivered,103.5,54.0
+ORD-00076,2025-04-04,C1143,Consumer,Rajshahi,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.05,Marketplace,Cash on Delivery,Delivered,132.98,78.0
+ORD-00077,2025-04-08,C1166,Corporate,Khulna,P009,Monitor Stand,Furniture,1.0,39.0,0.2,Mobile App,Bank Transfer,Delivered,31.2,20.0
+ORD-00078,2025-08-18,C1079,Corporate,Chattogram,P008,Office Chair,Furniture,3.0,149.0,0.0,Retail Store,Mobile Banking,Delivered,447.0,276.0
+ORD-00079,2025-07-08,C1180,Small Business,Khulna,P010,Laptop Sleeve,Accessories,1.0,22.0,0.15,Marketplace,Cash on Delivery,Delivered,18.7,10.0
+ORD-00080,2025-06-06,C1138,Corporate,Chattogram,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Marketplace,Card,Returned,15.0,5.5
+ORD-00081,2025-04-09,C1050,Small Business,Barishal,P003,Notebook Set,Stationery,1.0,7.99,0.1,Marketplace,Card,Delivered,7.19,2.8
+ORD-00082,2025-07-04,C1012,Consumer,Sylhet,P004,Desk Lamp,Home Office,1.0,27.99,0.0,Mobile App,Cash on Delivery,Returned,27.99,14.5
+ORD-00083,2025-05-30,C1004,Corporate,,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Retail Store,Card,Returned,78.0,40.0
+ORD-00084,2025-08-29,C1030,Consumer,Dhaka,P005,Water Bottle,Lifestyle,1.0,15.0,0.05,Marketplace,Bank Transfer,Delivered,14.25,5.5
+ORD-00085,2025-09-09,C1145,Small Business,Dhaka,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Mobile App,Mobile Banking,Returned,3.6,1.2
+ORD-00086,2025-05-08,C1116,Small Business,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.1,Mobile App,Bank Transfer,Cancelled,31.05,18.0
+ORD-00087,2025-10-29,C1054,Corporate,Sylhet,P005,Water Bottle,Lifestyle,5.0,15.0,0.05,Website,Card,Cancelled,71.25,27.5
+ORD-00088,2025-05-16,C1001,Small Business,Chattogram,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Website,Mobile Banking,Delivered,55.98,29.0
+ORD-00089,2025-12-19,C1180,Small Business,Chattogram,P008,Office Chair,Furniture,2.0,149.0,0.05,Marketplace,Cash on Delivery,Delivered,283.1,184.0
+ORD-00090,2025-12-18,C1030,Corporate,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.05,Mobile App,Bank Transfer,Returned,32.77,18.0
+ORD-00091,2025-11-28,C1079,Corporate,Dhaka,P004,Desk Lamp,Home Office,1.0,27.99,0.05,Website,Mobile Banking,Delivered,26.59,14.5
+ORD-00092,2025-05-28,C1129,Corporate,Rajshahi,P010,Laptop Sleeve,Accessories,1.0,22.0,0.1,Retail Store,Cash on Delivery,Returned,19.8,10.0
+ORD-00093,2025-08-13,C1007,Consumer,Barishal,P008,Office Chair,Furniture,1.0,149.0,0.0,Marketplace,Cash on Delivery,Delivered,149.0,92.0
+ORD-00094,2025-12-12,C1045,Small Business,Dhaka,P004,Desk Lamp,Home Office,3.0,27.99,0.15,Marketplace,Card,Cancelled,71.37,43.5
+ORD-00095,2025-11-30,C1024,Small Business,Sylhet,P009,Monitor Stand,Furniture,1.0,39.0,0.05,Retail Store,Bank Transfer,Delivered,37.05,20.0
+ORD-00096,2025-07-29,C1106,Corporate,Rangpur,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.2,Mobile App,Cash on Delivery,Delivered,55.99,39.0
+ORD-00097,2025-05-28,C1081,Small Business,Dhaka,P008,Office Chair,furniture,2.0,149.0,0.1,Retail Store,Card,Cancelled,268.2,184.0
+ORD-00098,2025-03-01,C1106,Consumer,Rangpur,P006,Mechanical Keyboard,Electronics,5.0,69.99,0.1,Website,Bank Transfer,Cancelled,314.95,195.0
+ORD-00099,2025-09-23,C1069,Corporate,Khulna,P004,Desk Lamp,Home Office,1.0,27.99,0.1,Website,Mobile Banking,Returned,25.19,14.5
+ORD-00100,2025-05-28,C1041,Small Business,Dhaka,P003,Notebook Set,Stationery,1.0,7.99,0.2,Website,Mobile Banking,Delivered,6.39,2.8
+ORD-00101,2025-01-08,C1031,Corporate,Rangpur,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Website,Bank Transfer,Delivered,78.0,40.0
+ORD-00102,2025-09-13,C1124,Small Business,Barishal,P003,Notebook Set,Stationery,4.0,7.99,0.05,Marketplace,Bank Transfer,Cancelled,30.36,11.2
+ORD-00103,2025-08-22,C1071,Small Business,Sylhet,P004,Desk Lamp,Home Office,2.0,27.99,0.1,Mobile App,Card,Delivered,50.38,29.0
+ORD-00104,2025-09-17,C1039,Small Business,Barishal,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Marketplace,Bank Transfer,Delivered,69.99,39.0
+ORD-00105,2025-09-05,C1049,Corporate,Khulna,P009,Monitor Stand,Furniture,1.0,39.0,0.15,Retail Store,Cash on Delivery,Cancelled,33.15,20.0
+ORD-00106,2025-10-20,C1099,Corporate,Rajshahi,P004,Desk Lamp,Home Office,1.0,27.99,0.1,Retail Store,Bank Transfer,Delivered,25.19,14.5
+ORD-00107,2025-09-11,C1113,Consumer,Sylhet,P003,Notebook Set,Stationery,4.0,7.99,0.0,Marketplace,Card,Cancelled,31.96,11.2
+ORD-00108,2025-08-22,C1121,Small Business,Rangpur,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Mobile App,Card,Delivered,39.0,20.0
+ORD-00109,2025-11-16,C1082,Corporate,Rangpur,P006,Mechanical Keyboard,Electronics,2.0,69.99,,Marketplace,Bank Transfer,Delivered,111.98,78.0
+ORD-00110,2025-10-05,C1024,Small Business,Barishal,P008,Office Chair,Furniture,1.0,149.0,0.0,Marketplace,Mobile Banking,Delivered,149.0,92.0
+ORD-00111,2025-11-21,C1012,Small Business,Chattogram,P002,USB-C Hub,Electronics,2.0,34.5,0.0,Marketplace,Card,Delivered,69.0,36.0
+ORD-00112,2025-05-31,C1044,Consumer,Chattogram,P001,Wireless Mouse,Electronics,1.0,18.99,0.1,Retail Store,Mobile Banking,Delivered,17.09,9.2
+ORD-00113,2025-11-09,C1060,Small Business,Chattogram,P002,USB-C Hub,Electronics,3.0,34.5,0.15,Retail Store,,Returned,87.97,54.0
+ORD-00114,2025-08-24,C1114,Small Business,Rajshahi,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Mobile App,Card,Delivered,15.0,5.5
+ORD-00115,2025-06-03,C1051,Small Business,Rajshahi,P010,Laptop Sleeve,Accessories,2.0,22.0,0.1,Retail Store,Cash on Delivery,Returned,39.6,20.0
+ORD-00116,2025-02-24,C1006,Corporate,Sylhet,P008,Office Chair,Furniture,1.0,149.0,0.15,Marketplace,Cash on Delivery,Delivered,126.65,92.0
+ORD-00117,2025-05-21,C1059,Corporate,Dhaka,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Retail Store,Cash on Delivery,Returned,3.6,1.2
+ORD-00118,2025-04-23,C1161,Corporate,Barishal,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.15,Mobile App,Card,Delivered,118.98,78.0
+ORD-00119,2025-06-08,C1076,Small Business,Rajshahi,P001,Wireless Mouse,Electronics,3.0,18.99,0.0,Mobile App,Card,Cancelled,56.97,27.6
+ORD-00120,2025-03-31,C1066,Small Business,Sylhet,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Marketplace,Mobile Banking,Delivered,3.82,1.2
+ORD-00121,2025-06-23,C1143,Small Business,Chattogram,P005,Water Bottle,Lifestyle,3.0,15.0,0.1,Mobile App,Bank Transfer,Delivered,40.5,16.5
+ORD-00122,2025-07-22,C1150,Small Business,Khulna,P002,USB-C Hub,Electronics,1.0,34.5,0.15,Marketplace,Cash on Delivery,Delivered,29.32,18.0
+ORD-00123,2025-02-25,C1166,Consumer,Sylhet,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.1,Marketplace,Mobile Banking,Delivered,125.98,78.0
+ORD-00124,2025-12-25,C1078,Small Business,Chattogram,P008,Office Chair,Furniture,1.0,149.0,0.1,Website,Card,Delivered,134.1,92.0
+ORD-00125,2025-02-19,C1172,Corporate,Khulna,P002,USB-C Hub,Electronics,1.0,34.5,0.15,Retail Store,Cash on Delivery,Delivered,29.32,18.0
+ORD-00126,2025-08-03,C1158,Small Business,Khulna,P009,Monitor Stand,Furniture,2.0,39.0,0.2,Website,Bank Transfer,Delivered,62.4,40.0
+ORD-00127,2025-01-17,C1026,Corporate,Khulna,P005,Water Bottle,Lifestyle,2.0,15.0,0.0,Mobile App,Cash on Delivery,Delivered,30.0,11.0
+ORD-00128,2025-10-06,C1049,Consumer,Dhaka,P006,Mechanical Keyboard,Electronics,4.0,69.99,0.2,Retail Store,Cash on Delivery,Delivered,223.97,156.0
+ORD-00129,2025-02-16,C1086,Consumer,Sylhet,P008,Office Chair,Furniture,2.0,149.0,0.2,Website,Card,Returned,238.4,184.0
+ORD-00130,2025-10-17,C1085,Consumer,Sylhet,P003,Notebook Set,Stationery,1.0,7.99,0.15,Mobile App,Mobile Banking,Delivered,6.79,2.8
+ORD-00131,2025-01-02,C1029,Corporate,Sylhet,P010,Laptop Sleeve,Accessories,,22.0,0.0,Marketplace,Mobile Banking,Delivered,22.0,10.0
+ORD-00132,2025-03-09,C1068,Consumer,Rajshahi,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Website,Mobile Banking,Cancelled,18.99,9.2
+ORD-00133,2025-08-04,C1132,Corporate,Khulna,P003,Notebook Set,Stationery,2.0,7.99,0.2,Retail Store,Cash on Delivery,Delivered,12.78,5.6
+ORD-00134,2025-08-20,C1165,Consumer,Barishal,P002,USB-C Hub,Electronics,2.0,34.5,0.15,Marketplace,Bank Transfer,delivered,58.65,36.0
+ORD-00135,2025-09-03,C1019,Consumer,Dhaka,P001,Wireless Mouse,Electronics,3.0,18.99,0.1,Retail Store,Bank Transfer,Returned,51.27,27.6
+ORD-00136,2025-11-08,C1153,Corporate,Sylhet,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Marketplace,Bank Transfer,Delivered,69.99,39.0
+ORD-00137,2025-08-21,C1111,Small Business,Rangpur,P005,Water Bottle,Lifestyle,2.0,15.0,0.1,Website,Mobile Banking,Delivered,27.0,11.0
+ORD-00138,2025-07-31,C1110,Small Business,Khulna,P004,Desk Lamp,Home Office,1.0,27.99,0.1,Website,Cash on Delivery,Delivered,25.19,14.5
+ORD-00139,2025-07-11,C1024,Small Business,Dhaka,P005,Water Bottle,Lifestyle,4.0,15.0,0.2,Website,Card,Delivered,48.0,22.0
+ORD-00140,2025-07-10,C1106,Small Business,Sylhet,P002,USB-C Hub,Electronics,3.0,34.5,0.15,Marketplace,Card,Delivered,87.97,54.0
+ORD-00141,2025-01-27,C1040,Corporate,Rajshahi,P007,Ballpoint Pens,Stationery,4.0,4.5,0.15,Website,Mobile Banking,Delivered,15.3,4.8
+ORD-00142,2025-04-25,C1147,Consumer,Rajshahi,P008,Office Chair,Furniture,3.0,149.0,0.05,Website ,Cash on Delivery,Cancelled,424.65,276.0
+ORD-00143,2025-10-15,C1008,Consumer,Barishal,P007,Ballpoint Pens,Stationery,5.0,4.5,0.15,Website,Cash on Delivery,Cancelled,19.12,6.0
+ORD-00144,2025-12-26,C1145,Corporate,Dhaka,P005,Water Bottle,Lifestyle,3.0,15.0,0.05,Mobile App,Mobile Banking,Delivered,42.75,16.5
+ORD-00145,2025-02-05,C1108,Small Business,Dhaka,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Mobile App,Bank Transfer,Delivered,3.6,1.2
+ORD-00146,2025-03-22,C1040,Consumer,Rangpur,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.2,Website,Card,Delivered,55.99,39.0
+ORD-00147,2025-01-26,C1156,Small Business,Barishal,P010,Laptop Sleeve,Accessories,2.0,22.0,0.05,Retail Store,Bank Transfer,Delivered,41.8,20.0
+ORD-00148,2025-05-20,C1073,Corporate,Rajshahi,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Retail Store,Card,Delivered,3.82,1.2
+ORD-00149,2025-09-07,C1002,Consumer,Chattogram,P010,Laptop Sleeve,Accessories,2.0,,0.05,Retail Store,Card,Delivered,41.8,20.0
+ORD-00150,2025-04-19,C1128,Corporate,Rajshahi,P005,Water Bottle,Lifestyle,3.0,15.0,0.05,Website,Card,Delivered,42.75,16.5
+ORD-00151,2025-03-31,C1102,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Marketplace,Card,Returned,3.82,1.2
+ORD-00152,2025-08-12,C1164,Small Business,Sylhet,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Retail Store,Bank Transfer,Delivered,18.99,9.2
+ORD-00153,2025-02-28,C1023,Small Business,Rangpur,P005,Water Bottle,Lifestyle,1.0,15.0,0.05,Retail Store,Cash on Delivery,Delivered,14.25,5.5
+ORD-00154,2025-05-05,C1087,Consumer,Dhaka,P002,USB-C Hub,Electronics,1.0,34.5,0.1,Retail Store,Cash on Delivery,Cancelled,31.05,18.0
+ORD-00155,2025-03-28,C1090,Corporate,Sylhet,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.2,Mobile App,Cash on Delivery,Delivered,55.99,39.0
+ORD-00156,2025-05-01,C1046,Corporate,Chattogram,P003,Notebook Set,Stationery,1.0,7.99,0.05,Mobile App,Card,Delivered,7.59,2.8
+ORD-00157,2025-08-26,C1039,Small Business,Barishal,P008,Office Chair,Furniture,2.0,149.0,0.15,Marketplace,Cash on Delivery,Delivered,253.3,184.0
+ORD-00158,2025-08-29,C1130,Consumer,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.05,Website,Cash on Delivery,Delivered,32.77,18.0
+ORD-00159,2025-08-25,C1166,Consumer,Rangpur,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Marketplace,Card,Delivered,15.0,5.5
+ORD-00160,2025-11-01,C1147,Corporate,Sylhet,P010,Laptop Sleeve,Accessories,2.0,22.0,0.1,Website,Bank Transfer,Cancelled,39.6,20.0
+ORD-00161,2025-06-14,C1088,Corporate,Dhaka,P004,Desk Lamp,Home Office,2.0,27.99,0.15,Retail Store,Card,Delivered,47.58,29.0
+ORD-00162,2025-09-16,C1135,Corporate,Barishal,P002,USB-C Hub,Electronics,2.0,34.5,0.0,Retail Store,Bank Transfer,Delivered,69.0,36.0
+ORD-00163,2025-03-23,C1162,Corporate,Khulna,P010,Laptop Sleeve,Accessories,1.0,22.0,0.05,Marketplace,Card,Delivered,20.9,10.0
+ORD-00164,2025-02-03,C1169,Corporate,Khulna,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.15,Marketplace,Cash on Delivery,Returned,59.49,39.0
+ORD-00165,2025-06-20,C1034,Corporate,Rajshahi,P003,Notebook Set,Stationery,1.0,7.99,0.2,Marketplace,Bank Transfer,Delivered,6.39,2.8
+ORD-00166,2025-06-08,C1166,Corporate,dhaka ,P002,USB-C Hub,Electronics,2.0,34.5,0.2,Mobile App,Card,Delivered,55.2,36.0
+ORD-00167,2025-09-18,C1125,Consumer,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.05,Mobile App,Cash on Delivery,Delivered,4.27,1.2
+ORD-00168,2025-03-12,C1159,Consumer,Sylhet,P004,Desk Lamp,Home Office,1.0,27.99,0.05,Website,Cash on Delivery,Delivered,26.59,14.5
+ORD-00169,2025-07-12,C1012,Small Business,Rangpur,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Mobile App,Bank Transfer,Returned,22.0,10.0
+ORD-00170,2025-12-13,C1137,Consumer,Rajshahi,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.1,Retail Store,Mobile Banking,Cancelled,125.98,78.0
+ORD-00171,2025-08-29,C1073,Small Business,Barishal,P005,Water Bottle,Lifestyle,4.0,15.0,0.0,Retail Store,Bank Transfer,Delivered,60.0,22.0
+ORD-00172,2025-09-28,C1014,Corporate,Rangpur,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Mobile App,Cash on Delivery,Delivered,39.0,20.0
+ORD-00173,2025-07-10,C1022,Consumer,Rangpur,P008,Office Chair,Furniture,2.0,149.0,0.0,Website,Cash on Delivery,Returned,298.0,184.0
+ORD-00174,2025-08-19,C1090,Consumer,Dhaka,P005,Water Bottle,Lifestyle,4.0,15.0,0.0,Mobile App,Bank Transfer,Delivered,60.0,22.0
+ORD-00175,2025-01-28,C1058,Consumer,Khulna,P007,Ballpoint Pens,Stationery,1.0,4.5,0.05,Website,Cash on Delivery,Delivered,4.27,1.2
+ORD-00176,2025-02-20,C1010,Small Business,Rangpur,P006,Mechanical Keyboard,Electronics,3.0,69.99,0.2,Mobile App,Mobile Banking,Delivered,167.98,117.0
+ORD-00177,2025-12-23,C1005,Small Business,Khulna,P008,Office Chair,Furniture,3.0,149.0,0.2,Website,Card,Delivered,357.6,276.0
+ORD-00178,2025-03-18,C1074,Consumer,Sylhet,P004,Desk Lamp,Home Office,2.0,27.99,0.2,Retail Store,Card,Cancelled,44.78,29.0
+ORD-00179,2025-03-04,C1029,Small Business,Rangpur,P005,Water Bottle,Lifestyle,1.0,15.0,0.1,Retail Store,Card,Returned,13.5,5.5
+ORD-00180,2025-10-02,C1110,Consumer,Chattogram,P010,Laptop Sleeve,Accessories,1.0,22.0,0.15,Mobile App,Cash on Delivery,Cancelled,18.7,10.0
+ORD-00181,2025-06-30,C1018,Corporate,Barishal,P010,Laptop Sleeve,Accessories,1.0,22.0,0.1,Website,Cash on Delivery,Delivered,19.8,10.0
+ORD-00182,2025-09-17,C1012,Corporate,Dhaka,P009,Monitor Stand,Furniture,3.0,39.0,0.15,Retail Store,Bank Transfer,Cancelled,99.45,60.0
+ORD-00183,2025-07-11,C1062,Corporate,Rangpur,P007,Ballpoint Pens,Stationery,1.0,4.5,0.0,Website,Cash on Delivery,Delivered,4.5,1.2
+ORD-00184,2025-10-25,C1165,Consumer,Dhaka,P002,USB-C Hub,Electronics,2.0,34.5,0.05,Marketplace,Cash on Delivery,Delivered,65.55,36.0
+ORD-00185,2025-12-23,C1076,Consumer,Dhaka,P008,Office Chair,Furniture,1.0,149.0,0.0,Retail Store,Card,Delivered,149.0,92.0
+ORD-00186,2025-04-13,C1065,Consumer,Sylhet,P001,Wireless Mouse,Electronics,3.0,18.99,0.05,Retail Store,Bank Transfer,Delivered,54.12,27.6
+ORD-00187,2025-05-27,C1095,Small Business,Rajshahi,P004,Desk Lamp,Home Office,1.0,27.99,0.0,Marketplace,Card,Returned,27.99,14.5
+ORD-00188,2025-08-14,C1095,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,3.0,4.5,0.1,Retail Store,Bank Transfer,Delivered,12.15,3.6
+ORD-00189,2025-02-12,C1083,Consumer,Sylhet,P005,Water Bottle,Lifestyle,2.0,15.0,0.0,Mobile App,Cash on Delivery,Delivered,30.0,11.0
+ORD-00190,2025-06-17,C1177,Small Business,Sylhet,P002,USB-C Hub,Electronics,2.0,34.5,0.05,Retail Store,Mobile Banking,Delivered,65.55,36.0
+ORD-00191,2025-08-17,C1020,Corporate,Khulna,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.05,Marketplace,Card,Cancelled,66.49,39.0
+ORD-00192,2025-07-06,C1156,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,2.0,4.5,0.2,Website,Mobile Banking,Returned,7.2,2.4
+ORD-00193,2025-01-18,C1146,Consumer,Rajshahi,P008,Office Chair,Furniture,1.0,149.0,0.0,Marketplace,Bank Transfer,Returned,149.0,92.0
+ORD-00194,2025-03-20,C1136,Small Business,Khulna,P010,Laptop Sleeve,accessories,2.0,22.0,0.05,Website,Mobile Banking,Delivered,41.8,20.0
+ORD-00195,2025-06-10,C1133,Small Business,Dhaka,P007,Ballpoint Pens,Stationery,2.0,4.5,0.0,Mobile App,Bank Transfer,Delivered,9.0,2.4
+ORD-00196,2025-03-02,C1178,Small Business,Khulna,P009,Monitor Stand,Furniture,1.0,39.0,0.05,Mobile App,Cash on Delivery,Returned,37.05,20.0
+ORD-00197,2025-03-04,C1175,Small Business,Chattogram,P004,Desk Lamp,Home Office,1.0,27.99,0.0,Retail Store,Card,Delivered,27.99,14.5
+ORD-00198,2025-12-30,C1093,Corporate,Rajshahi,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.15,Mobile App,Mobile Banking,Delivered,59.49,39.0
+ORD-00199,2025-03-04,C1093,Corporate,Rangpur,P004,Desk Lamp,Home Office,5.0,27.99,0.0,Retail Store,Card,Delivered,139.95,72.5
+ORD-00200,2025-07-08,C1080,Small Business,Sylhet,P010,Laptop Sleeve,Accessories,1.0,22.0,0.15,Website,Card,Delivered,18.7,10.0
+ORD-00201,2025-09-27,C1165,Consumer,Dhaka,P008,Office Chair,Furniture,1.0,149.0,0.1,Mobile App,Cash on Delivery,Cancelled,134.1,92.0
+ORD-00202,2025-08-27,C1111,Corporate,Rangpur,P008,Office Chair,Furniture,2.0,149.0,0.05,Mobile App,Mobile Banking,Delivered,283.1,184.0
+ORD-00203,2025-03-05,C1089,Corporate,Chattogram,P001,Wireless Mouse,Electronics,2.0,18.99,0.05,Marketplace,Mobile Banking,Delivered,36.08,18.4
+ORD-00204,2025-02-10,C1158,Corporate,Rajshahi,P005,Water Bottle,Lifestyle,1.0,15.0,0.2,Mobile App,Cash on Delivery,Cancelled,12.0,5.5
+ORD-00205,2025-09-15,C1145,Consumer,Chattogram,P002,USB-C Hub,Electronics,2.0,34.5,0.15,Mobile App,Cash on Delivery,Cancelled,58.65,36.0
+ORD-00206,2025-02-11,C1159,Corporate,Rajshahi,P001,Wireless Mouse,Electronics,1.0,18.99,0.2,Mobile App,Bank Transfer,Cancelled,15.19,9.2
+ORD-00207,2025-09-12,C1063,Corporate,Barishal,P001,Wireless Mouse,Electronics,3.0,18.99,0.15,Marketplace,Bank Transfer,Delivered,48.42,27.6
+ORD-00208,2025-06-02,C1124,Small Business,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Retail Store,Bank Transfer,Delivered,3.6,1.2
+ORD-00209,2025-06-24,C1034,Small Business,Rajshahi,P004,Desk Lamp,Home Office,2.0,27.99,0.05,Marketplace,Bank Transfer,Returned,53.18,29.0
+ORD-00210,2025-10-15,C1064,Consumer,Dhaka,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Marketplace,Bank Transfer,Delivered,39.0,20.0
+ORD-00211,2025-01-26,C1084,Corporate,Khulna,P002,USB-C Hub,Electronics,1.0,34.5,0.1,Mobile App,Mobile Banking,Cancelled,31.05,18.0
+ORD-00212,2025-04-08,C1128,Consumer,Khulna,P006,Mechanical Keyboard,Electronics,3.0,69.99,0.1,Retail Store,Cash on Delivery,Cancelled,188.97,117.0
+ORD-00213,2025-07-21,C1013,Small Business,Sylhet,P002,USB-C Hub,Electronics,2.0,34.5,0.0,Marketplace,Card,Delivered,69.0,36.0
+ORD-00214,2025-11-02,C1028,Small Business,Khulna,P008,Office Chair,Furniture,3.0,149.0,0.2,Marketplace,Card,Returned,357.6,276.0
+ORD-00215,2025-05-16,C1146,Corporate,Dhaka,P003,Notebook Set,Stationery,2.0,7.99,0.1,Retail Store,Card,Delivered,14.38,5.6
+ORD-00216,2025-07-05,C1160,Corporate,Sylhet,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Retail Store,Cash on Delivery,Delivered,55.98,29.0
+ORD-00217,2025-03-02,C1037,Consumer,Rajshahi,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Marketplace,Cash on Delivery,Delivered,22.0,10.0
+ORD-00218,2025-09-18,C1122,Corporate,Dhaka,P010,Laptop Sleeve,Accessories,1.0,22.0,,Mobile App,Cash on Delivery,Delivered,22.0,10.0
+ORD-00219,2025-03-18,C1101,Corporate,Rajshahi,P008,Office Chair,Furniture,2.0,149.0,0.15,Marketplace,Mobile Banking,Delivered,253.3,184.0
+ORD-00220,2025-10-31,C1005,Small Business,Khulna,P005,Water Bottle,Lifestyle,1.0,15.0,0.15,Marketplace,Bank Transfer,Cancelled,12.75,5.5
+ORD-00221,2025-12-11,C1068,Corporate,Rajshahi,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.1,Website,Bank Transfer,Cancelled,62.99,39.0
+ORD-00222,2025-10-23,C1038,Corporate,Khulna,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Mobile App,Bank Transfer,Cancelled,22.0,10.0
+ORD-00223,2025-01-17,C1081,Small Business,Chattogram,P004,Desk Lamp,Home Office,2.0,27.99,0.2,Website,Bank Transfer,Delivered,44.78,29.0
+ORD-00224,2025-07-31,C1036,Corporate,Rangpur,P003,Notebook Set,Stationery,2.0,7.99,0.1,Retail Store,Card,Cancelled,14.38,5.6
+ORD-00225,2025-10-15,C1045,Small Business,Sylhet,P004,Desk Lamp,Home Office,1.0,27.99,0.2,Retail Store,Cash on Delivery,Delivered,22.39,14.5
+ORD-00226,2025-06-25,C1050,Consumer,Barishal,P009,Monitor Stand,Furniture,2.0,39.0,0.2,Marketplace,,Returned,62.4,40.0
+ORD-00227,2025-10-13,C1082,Small Business,Barishal,P005,Water Bottle,Lifestyle,1.0,15.0,0.05,Mobile App,Bank Transfer,Delivered,14.25,5.5
+ORD-00228,2025-10-14,C1102,Small Business,Rajshahi,P006,Mechanical Keyboard,Electronics,4.0,69.99,0.2,Website,Bank Transfer,Delivered,223.97,156.0
+ORD-00229,2025-05-29,C1123,Consumer,Rajshahi,P003,Notebook Set,Stationery,1.0,7.99,0.2,Retail Store,Cash on Delivery,Delivered,6.39,2.8
+ORD-00230,2025-10-03,C1158,Corporate,Rajshahi,P004,Desk Lamp,Home Office,1.0,27.99,0.15,Mobile App,Card,Returned,23.79,14.5
+ORD-00231,2025-05-03,C1026,Small Business,Chattogram,P010,Laptop Sleeve,Accessories,1.0,22.0,0.2,Mobile App,Card,Cancelled,17.6,10.0
+ORD-00232,2025-08-30,C1168,Small Business,Sylhet,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Mobile App,Bank Transfer,Delivered,69.99,39.0
+ORD-00233,2025-11-30,C1167,Corporate,Rajshahi,P008,Office Chair,Furniture,1.0,149.0,0.05,Website,Card,Delivered,141.55,92.0
+ORD-00234,2025-10-01,C1102,Small Business,Khulna,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Mobile App,Card,Delivered,55.98,29.0
+ORD-00235,2025-05-29,C1073,Small Business,Sylhet,P003,Notebook Set,Stationery,3.0,7.99,0.0,Website,Cash on Delivery,Delivered,23.97,8.4
+ORD-00236,2025-09-26,C1029,Small Business,Khulna,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Marketplace,Mobile Banking,Cancelled,78.0,40.0
+ORD-00237,2025-08-23,C1146,Corporate,Dhaka,P003,Notebook Set,Stationery,2.0,7.99,0.2,Marketplace,Cash on Delivery,Delivered,12.78,5.6
+ORD-00238,2025-03-31,C1023,Small Business,Rangpur,P004,Desk Lamp,Home Office,2.0,27.99,0.2,Retail Store,Cash on Delivery,Delivered,44.78,29.0
+ORD-00239,2025-04-05,C1099,Consumer,Chattogram,P002,USB-C Hub,Electronics,5.0,34.5,0.1,Website,Cash on Delivery,Delivered,155.25,90.0
+ORD-00240,2025-05-17,C1168,Small Business,Barishal,P008,Office Chair,Furniture,4.0,149.0,0.05,Website,Cash on Delivery,Cancelled,566.2,368.0
+ORD-00241,2025-02-01,C1177,Consumer,Chattogram,P004,Desk Lamp,Home Office,2.0,27.99,0.1,Retail Store,Cash on Delivery,Delivered,50.38,29.0
+ORD-00242,2025-07-08,C1156,Small Business,Khulna,P005,Water Bottle,Lifestyle,2.0,15.0,0.0,Mobile App,Bank Transfer,Delivered,30.0,11.0
+ORD-00243,2025-12-26,C1175,Corporate,Rangpur,P007,Ballpoint Pens,Stationery,2.0,4.5,0.1,Mobile App,Mobile Banking,Cancelled,8.1,2.4
+ORD-00244,2025-09-27,C1141,Corporate,Dhaka,P002,USB-C Hub,Electronics,1.0,34.5,0.2,Website,Card,Delivered,27.6,18.0
+ORD-00245,2025-10-21,C1175,Consumer,Rangpur,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Retail Store,Card,Delivered,55.98,29.0
+ORD-00246,2025-09-08,C1034,Corporate,Rangpur,P010,Laptop Sleeve,Accessories,1.0,22.0,0.15,Website,Bank Transfer,Delivered,18.7,10.0
+ORD-00247,2025-08-22,C1102,Small Business,Barishal,P007,Ballpoint Pens,Stationery,2.0,4.5,0.15,Marketplace,Card,Delivered,7.65,2.4
+ORD-00248,2025-04-22,C1018,Small Business,Rajshahi,P001,Wireless Mouse,Electronics,2.0,18.99,0.0,Website,Card,Delivered,37.98,18.4
+ORD-00249,2025-05-27,C1098,Small Business,,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Retail Store,Cash on Delivery,Returned,18.99,9.2
+ORD-00250,2025-07-12,C1046,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Marketplace,Card,Cancelled,3.6,1.2
+ORD-00251,2025-09-28,C1119,Corporate,Rangpur,P007,Ballpoint Pens,Stationery,1.0,4.5,0.0,Website,Cash on Delivery,Delivered,4.5,1.2
+ORD-00252,2025-08-06,C1071,Consumer,Khulna,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Marketplace,Mobile Banking,Delivered,78.0,40.0
+ORD-00253,2025-01-17,C1053,Consumer,Rangpur,P002,USB-C Hub,Electronics,3.0,34.5,0.1,Website,Mobile Banking,Cancelled,93.15,54.0
+ORD-00254,2025-11-01,C1012,Small Business,Barishal,P002,USB-C Hub,Electronics,1.0,34.5,0.15,Website,Mobile Banking,Returned,29.32,18.0
+ORD-00255,2025-04-30,C1148,Small Business,Sylhet,P008,Office Chair,Furniture,2.0,149.0,0.0,Marketplace,Mobile Banking,Delivered,298.0,184.0
+ORD-00256,2025-11-03,C1106,Small Business,Rajshahi,P010,Laptop Sleeve,Accessories,3.0,22.0,0.05,Mobile App,Mobile Banking,Delivered,62.7,30.0
+ORD-00257,2025-02-01,C1013,Small Business,Chattogram,P005,Water Bottle,Lifestyle,2.0,15.0,0.15,Retail Store,Bank Transfer,Returned,25.5,11.0
+ORD-00258,2025-09-26,C1048,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.1,Marketplace,Bank Transfer,Delivered,4.05,1.2
+ORD-00259,2025-05-04,C1144,Small Business,Chattogram,P008,Office Chair,Furniture,3.0,149.0,0.05,Retail Store,Card,Returned,424.65,276.0
+ORD-00260,2025-10-13,C1166,Consumer,Rajshahi,P007,Ballpoint Pens,Stationery,2.0,4.5,0.1,Mobile App,Cash on Delivery,Delivered,8.1,2.4
+ORD-00261,2025-07-09,C1173,Corporate,Dhaka,P008,Office Chair,Furniture,1.0,149.0,0.2,Marketplace,Bank Transfer,Delivered,119.2,92.0
+ORD-00262,2025-01-21,C1054,Small Business,Barishal,P010,Laptop Sleeve,Accessories,,22.0,0.0,Mobile App,Bank Transfer,Cancelled,66.0,30.0
+ORD-00263,2025-01-08,C1179,Corporate,Dhaka,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Retail Store,Mobile Banking,Returned,15.0,5.5
+ORD-00264,2025-07-23,C1120,Corporate,Rangpur,P004,Desk Lamp,Home Office,4.0,27.99,0.15,Marketplace,Bank Transfer,Delivered,95.17,58.0
+ORD-00265,2025-06-07,C1082,Consumer,Khulna,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.15,Website,Bank Transfer,Delivered,59.49,39.0
+ORD-00266,2025-06-10,C1067,Corporate,Barishal,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.15,Mobile App,Card,Delivered,59.49,39.0
+ORD-00267,2025-10-24,C1098,Corporate,Chattogram,P010,Laptop Sleeve,Accessories,2.0,22.0,0.05,Marketplace,Mobile Banking,Delivered,41.8,20.0
+ORD-00268,2025-09-13,C1118,Consumer,Rajshahi,P004,Desk Lamp,Home Office,2.0,27.99,0.2,Retail Store,Bank Transfer,delivered,44.78,29.0
+ORD-00269,2025-03-28,C1020,Corporate,Chattogram,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.15,Website,Card,Delivered,59.49,39.0
+ORD-00270,2025-01-04,C1056,Corporate,Dhaka,P001,Wireless Mouse,Electronics,1.0,18.99,0.2,Mobile App,Card,Delivered,15.19,9.2
+ORD-00271,2025-07-11,C1005,Consumer,Sylhet,P008,Office Chair,Furniture,1.0,149.0,0.2,Retail Store,Bank Transfer,Returned,119.2,92.0
+ORD-00272,2025-10-10,C1005,Corporate,Barishal,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Marketplace,Cash on Delivery,Cancelled,39.0,20.0
+ORD-00273,2025-04-02,C1159,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.0,Mobile App,Mobile Banking,Cancelled,4.5,1.2
+ORD-00274,2025-07-01,C1145,Consumer,Rajshahi,P005,Water Bottle,Lifestyle,1.0,15.0,0.1,Retail Store,Bank Transfer,Delivered,13.5,5.5
+ORD-00275,2025-06-03,C1104,Small Business,Rangpur,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Website,Card,Returned,55.98,29.0
+ORD-00276,2025-10-10,C1128,Small Business,Barishal,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Mobile App,Card,Delivered,3.6,1.2
+ORD-00277,2025-10-17,C1178,Corporate,Dhaka,P006,Mechanical Keyboard,Electronics,5.0,69.99,0.0,Mobile App,Mobile Banking,Cancelled,349.95,195.0
+ORD-00278,2025-05-19,C1081,Consumer,Rajshahi,P008,Office Chair,Furniture,1.0,149.0,0.0,Website,Mobile Banking,Returned,149.0,92.0
+ORD-00279,2025-10-28,C1145,Consumer,Dhaka,P004,Desk Lamp,Home Office,1.0,27.99,0.2,Marketplace,Mobile Banking,Delivered,22.39,14.5
+ORD-00280,2025-07-19,C1129,Corporate,Khulna,P010,Laptop Sleeve,Accessories,2.0,22.0,0.15,Mobile App,Card,Delivered,37.4,20.0
+ORD-00281,2025-01-28,C1008,Corporate,Rajshahi,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Retail Store,Cash on Delivery,Delivered,69.99,39.0
+ORD-00282,2025-08-19,C1175,Corporate,Khulna,P005,Water Bottle,Lifestyle,2.0,15.0,0.05,Retail Store,Mobile Banking,Cancelled,28.5,11.0
+ORD-00283,2025-02-13,C1069,Consumer,Barishal,P007,Ballpoint Pens,Stationery,3.0,4.5,0.05,Website,Card,Delivered,12.82,3.6
+ORD-00284,2025-12-31,C1028,Consumer,Khulna,P007,Ballpoint Pens,Stationery,3.0,4.5,0.0,Marketplace,Cash on Delivery,Returned,13.5,3.6
+ORD-00285,2025-06-07,C1111,Small Business,Chattogram,P001,Wireless Mouse,Electronics,1.0,18.99,0.05,Website,Mobile Banking,Delivered,18.04,9.2
+ORD-00286,2025-10-12,C1153,Corporate,Dhaka,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Marketplace,Card,Delivered,78.0,40.0
+ORD-00287,2025-07-17,C1147,Corporate,Rangpur,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.1,Website,Mobile Banking,Delivered,62.99,39.0
+ORD-00288,2025-12-17,C1038,Consumer,Rajshahi,P003,Notebook Set,Stationery,1.0,7.99,0.0,Marketplace,Bank Transfer,Delivered,7.99,2.8
+ORD-00289,2025-08-11,C1065,Consumer,Rangpur,P003,Notebook Set,Stationery,1.0,7.99,0.05,Website,Cash on Delivery,Delivered,7.59,2.8
+ORD-00290,2025-11-01,C1102,Small Business,Chattogram,P008,Office Chair,Furniture,2.0,149.0,0.1,Marketplace,Card,Delivered,268.2,184.0
+ORD-00291,2025-07-14,C1077,Small Business,Rajshahi,P010,Laptop Sleeve,accessories,3.0,22.0,0.05,Retail Store,Mobile Banking,Delivered,62.7,30.0
+ORD-00292,2025-12-22,C1178,Corporate,Khulna,P010,Laptop Sleeve,Accessories,1.0,22.0,0.05,Marketplace,Cash on Delivery,Delivered,20.9,10.0
+ORD-00293,2025-10-22,C1030,Corporate,Rajshahi,P008,Office Chair,Furniture,3.0,149.0,0.05,Retail Store,Cash on Delivery,Delivered,424.65,276.0
+ORD-00294,2025-10-31,C1054,Small Business,Rangpur,P004,Desk Lamp,Home Office,5.0,27.99,0.0,Website,Bank Transfer,Returned,139.95,72.5
+ORD-00295,2025-12-21,C1062,Small Business,Khulna,P005,Water Bottle,Lifestyle,1.0,15.0,0.1,Mobile App,Cash on Delivery,Returned,13.5,5.5
+ORD-00296,2025-08-05,C1137,Corporate,Sylhet,P003,Notebook Set,Stationery,3.0,7.99,0.0,Retail Store,Bank Transfer,Delivered,23.97,8.4
+ORD-00297,2025-10-06,C1064,Corporate,Rangpur,P007,Ballpoint Pens,Stationery,1.0,4.5,0.05,Website,Card,Returned,4.27,1.2
+ORD-00298,2025-03-27,C1111,Consumer,Barishal,P006,Mechanical Keyboard,Electronics,2.0,,0.0,Retail Store,Cash on Delivery,Cancelled,139.98,78.0
+ORD-00299,2025-02-20,C1096,Small Business,Sylhet,P001,Wireless Mouse,Electronics,1.0,18.99,0.15,Mobile App,Bank Transfer,Returned,16.14,9.2
+ORD-00300,2025-12-14,C1027,Small Business,Rajshahi,P008,Office Chair,Furniture,2.0,149.0,0.15,Website,Bank Transfer,Delivered,253.3,184.0
+ORD-00301,2025-02-13,C1117,Consumer,Rajshahi,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Marketplace,Cash on Delivery,Delivered,3.6,1.2
+ORD-00302,2025-09-05,C1018,Small Business,Barishal,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Retail Store,Cash on Delivery,Delivered,39.0,20.0
+ORD-00303,2025-12-30,C1133,Consumer,Dhaka,P001,Wireless Mouse,Electronics,1.0,18.99,0.05,Mobile App,Mobile Banking,Returned,18.04,9.2
+ORD-00304,2025-03-23,C1048,Corporate,Chattogram,P009,Monitor Stand,Furniture,1.0,39.0,0.1,Retail Store,Mobile Banking,Delivered,35.1,20.0
+ORD-00305,2025-07-22,C1002,Corporate,Khulna,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Retail Store,Bank Transfer,Delivered,3.82,1.2
+ORD-00306,2025-04-16,C1094,Small Business,Sylhet,P004,Desk Lamp,Home Office,1.0,27.99,0.2,Website,Mobile Banking,Delivered,22.39,14.5
+ORD-00307,2025-08-23,C1157,Small Business,Sylhet,P004,Desk Lamp,Home Office,1.0,27.99,0.2,Marketplace,Bank Transfer,Delivered,22.39,14.5
+ORD-00308,2025-02-28,C1173,Consumer,Chattogram,P010,Laptop Sleeve,Accessories,1.0,22.0,0.1,Marketplace,Card,Cancelled,19.8,10.0
+ORD-00309,2025-03-02,C1108,Corporate,Rajshahi,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Mobile App,Bank Transfer,Delivered,69.99,39.0
+ORD-00310,2025-10-22,C1126,Small Business,Barishal,P003,Notebook Set,Stationery,1.0,7.99,0.0,Mobile App,Mobile Banking,Delivered,7.99,2.8
+ORD-00311,2025-04-06,C1125,Consumer,Dhaka,P003,Notebook Set,Stationery,1.0,7.99,0.1,Marketplace,Card,Cancelled,7.19,2.8
+ORD-00312,2025-07-16,C1107,Corporate,Khulna,P004,Desk Lamp,Home Office,4.0,27.99,0.15,Retail Store,Bank Transfer,Returned,95.17,58.0
+ORD-00313,2025-09-08,C1009,Small Business,Rangpur,P008,Office Chair,Furniture,1.0,149.0,0.15,Mobile App,Cash on Delivery,Delivered,126.65,92.0
+ORD-00314,2025-10-03,C1147,Consumer,Barishal,P004,Desk Lamp,Home Office,1.0,27.99,0.1,Retail Store,Card,Cancelled,25.19,14.5
+ORD-00315,2025-10-06,C1140,Consumer,Rangpur,P005,Water Bottle,Lifestyle,3.0,15.0,0.05,Website,Bank Transfer,Cancelled,42.75,16.5
+ORD-00316,2025-02-22,C1068,Small Business,Rajshahi,P007,Ballpoint Pens,Stationery,2.0,4.5,0.2,Website,Bank Transfer,Delivered,7.2,2.4
+ORD-00317,2025-08-13,C1043,Corporate,Chattogram,P002,USB-C Hub,Electronics,3.0,34.5,0.0,Marketplace,Bank Transfer,Delivered,103.5,54.0
+ORD-00318,2025-04-16,C1083,Corporate,Rajshahi,P003,Notebook Set,Stationery,3.0,7.99,0.0,Marketplace,Mobile Banking,Cancelled,23.97,8.4
+ORD-00319,2025-05-29,C1106,Consumer,Rangpur,P005,Water Bottle,Lifestyle,2.0,15.0,0.15,Website,Mobile Banking,Returned,25.5,11.0
+ORD-00320,2025-12-02,C1174,Small Business,Chattogram,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Marketplace,Mobile Banking,Delivered,15.0,5.5
+ORD-00321,2025-03-14,C1020,Corporate,Khulna,P008,Office Chair,Furniture,2.0,149.0,0.05,Retail Store,Bank Transfer,Returned,283.1,184.0
+ORD-00322,2025-07-26,C1084,Corporate,Rajshahi,P002,USB-C Hub,Electronics,2.0,34.5,0.05,Retail Store,Bank Transfer,Returned,65.55,36.0
+ORD-00323,2025-02-17,C1137,Small Business,Barishal,P001,Wireless Mouse,Electronics,2.0,18.99,0.1,Marketplace,Card,Returned,34.18,18.4
+ORD-00324,2025-08-08,C1141,Corporate,Rajshahi,P004,Desk Lamp,Home Office,3.0,27.99,0.1,Marketplace,Cash on Delivery,Delivered,75.57,43.5
+ORD-00325,2025-10-17,C1026,Corporate,Rangpur,P003,Notebook Set,Stationery,3.0,7.99,0.05,Website,Card,Returned,22.77,8.4
+ORD-00326,2025-01-09,C1052,Corporate,Khulna,P008,Office Chair,Furniture,1.0,149.0,0.0,Website,Bank Transfer,Delivered,149.0,92.0
+ORD-00327,2025-11-29,C1022,Small Business,Barishal,P003,Notebook Set,Stationery,1.0,7.99,,Marketplace,Cash on Delivery,Delivered,7.59,2.8
+ORD-00328,2025-01-27,C1168,Consumer,Barishal,P003,Notebook Set,Stationery,1.0,7.99,0.05,Mobile App,Bank Transfer,Returned,7.59,2.8
+ORD-00329,2025-01-01,C1003,Consumer,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.0,Mobile App,Bank Transfer,Delivered,34.5,18.0
+ORD-00330,2025-03-03,C1059,Small Business,Chattogram,P006,Mechanical Keyboard,Electronics,5.0,69.99,0.1,Retail Store,Card,Returned,314.95,195.0
+ORD-00331,2025-02-22,C1165,Corporate,Chattogram,P002,USB-C Hub,Electronics,1.0,34.5,0.05,Retail Store,Mobile Banking,Delivered,32.77,18.0
+ORD-00332,2025-02-05,C1090,Corporate,dhaka ,P003,Notebook Set,Stationery,2.0,7.99,0.0,Mobile App,Bank Transfer,Cancelled,15.98,5.6
+ORD-00333,2025-11-18,C1023,Consumer,Barishal,P004,Desk Lamp,Home Office,2.0,27.99,0.1,Retail Store,Mobile Banking,Cancelled,50.38,29.0
+ORD-00334,2025-03-05,C1064,Small Business,Khulna,P003,Notebook Set,Stationery,2.0,7.99,0.1,Marketplace,Mobile Banking,Delivered,14.38,5.6
+ORD-00335,2025-05-08,C1169,Small Business,Sylhet,P002,USB-C Hub,Electronics,2.0,34.5,0.15,Marketplace,Card,Returned,58.65,36.0
+ORD-00336,2025-09-23,C1062,Small Business,Khulna,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Marketplace,Card,Returned,55.98,29.0
+ORD-00337,2025-02-27,C1082,Consumer,Dhaka,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Website,Cash on Delivery,Cancelled,3.6,1.2
+ORD-00338,2025-10-19,C1005,Corporate,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Retail Store,Card,Returned,3.82,1.2
+ORD-00339,2025-01-08,C1161,Corporate,Rangpur,P002,USB-C Hub,Electronics,1.0,34.5,0.0,Retail Store,,Delivered,34.5,18.0
+ORD-00340,2025-08-01,C1022,Small Business,Barishal,P009,Monitor Stand,Furniture,1.0,39.0,0.1,Mobile App,Cash on Delivery,Delivered,35.1,20.0
+ORD-00341,2025-09-19,C1080,Corporate,Rajshahi,P002,USB-C Hub,Electronics,4.0,34.5,0.0,Retail Store,Card,Cancelled,138.0,72.0
+ORD-00342,2025-05-03,C1080,Corporate,Dhaka,P007,Ballpoint Pens,Stationery,1.0,4.5,0.0,Retail Store,Card,Delivered,4.5,1.2
+ORD-00343,2025-03-03,C1089,Corporate,Dhaka,P003,Notebook Set,Stationery,1.0,7.99,0.0,Mobile App,Bank Transfer,Returned,7.99,2.8
+ORD-00344,2025-05-13,C1008,Small Business,Rangpur,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Marketplace,Card,Returned,39.0,20.0
+ORD-00345,2025-05-20,C1117,Corporate,Sylhet,P007,Ballpoint Pens,Stationery,2.0,4.5,0.05,Website,Bank Transfer,Returned,8.55,2.4
+ORD-00346,2025-01-29,C1027,Corporate,Rajshahi,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.15,Mobile App,Cash on Delivery,Delivered,118.98,78.0
+ORD-00347,2025-04-27,C1012,Small Business,Rangpur,P002,USB-C Hub,Electronics,2.0,34.5,0.0,Website,Mobile Banking,Delivered,69.0,36.0
+ORD-00348,2025-07-16,C1083,Consumer,Sylhet,P006,Mechanical Keyboard,Electronics,4.0,69.99,0.0,Retail Store,Mobile Banking,Delivered,279.96,156.0
+ORD-00349,2025-06-13,C1046,Consumer,Rajshahi,P007,Ballpoint Pens,Stationery,1.0,4.5,0.0,Website,Card,Cancelled,4.5,1.2
+ORD-00350,2025-01-24,C1084,Consumer,Rangpur,P009,Monitor Stand,Furniture,4.0,39.0,0.0,Marketplace,Cash on Delivery,Delivered,156.0,80.0
+ORD-00351,2025-08-22,C1119,Small Business,Sylhet,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Marketplace,Mobile Banking,Delivered,39.0,20.0
+ORD-00352,2025-09-10,C1002,Small Business,Sylhet,P010,Laptop Sleeve,Accessories,5.0,22.0,0.0,Mobile App,Mobile Banking,Returned,110.0,50.0
+ORD-00353,2025-04-30,C1169,Small Business,Dhaka,P001,Wireless Mouse,Electronics,2.0,18.99,0.2,Marketplace,Card,Returned,30.38,18.4
+ORD-00354,2025-02-23,C1072,Consumer,Khulna,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Website,Mobile Banking,Delivered,15.0,5.5
+ORD-00355,2025-04-29,C1022,Corporate,Barishal,P001,Wireless Mouse,Electronics,3.0,18.99,0.15,Marketplace,Bank Transfer,Delivered,48.42,27.6
+ORD-00356,2025-09-16,C1170,Consumer,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.1,Website,Bank Transfer,Delivered,31.05,18.0
+ORD-00357,2025-05-30,C1116,Small Business,Barishal,P004,Desk Lamp,Home Office,1.0,27.99,0.05,Marketplace,Cash on Delivery,Delivered,26.59,14.5
+ORD-00358,2025-02-08,C1043,Small Business,Dhaka,P004,Desk Lamp,Home Office,4.0,27.99,0.0,Mobile App,Card,Cancelled,111.96,58.0
+ORD-00359,2025-06-10,C1079,Small Business,Rangpur,P008,Office Chair,Furniture,1.0,149.0,0.15,Mobile App,Bank Transfer,Delivered,126.65,92.0
+ORD-00360,2025-03-03,C1084,Consumer,Rangpur,P005,Water Bottle,Lifestyle,1.0,15.0,0.2,Website,Mobile Banking,Delivered,12.0,5.5
+ORD-00361,2025-12-31,C1067,Consumer,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.05,Website,Cash on Delivery,Delivered,32.77,18.0
+ORD-00362,2025-07-27,C1119,Consumer,Sylhet,P001,Wireless Mouse,Electronics,3.0,18.99,0.15,Mobile App,Card,Returned,48.42,27.6
+ORD-00363,2025-03-04,C1176,Corporate,Chattogram,P003,Notebook Set,Stationery,1.0,7.99,0.0,Retail Store,Cash on Delivery,Delivered,7.99,2.8
+ORD-00364,2025-10-26,C1033,Consumer,Dhaka,P002,USB-C Hub,Electronics,2.0,34.5,0.0,Mobile App,Bank Transfer,Delivered,69.0,36.0
+ORD-00365,2025-03-04,C1128,Consumer,Chattogram,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.1,Retail Store,Bank Transfer,Delivered,62.99,39.0
+ORD-00366,2025-12-16,C1115,Consumer,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.05,Marketplace,Cash on Delivery,Delivered,4.27,1.2
+ORD-00367,2025-11-11,C1141,Small Business,Rajshahi,P001,Wireless Mouse,Electronics,2.0,18.99,0.0,Retail Store,Bank Transfer,Returned,37.98,18.4
+ORD-00368,2025-02-14,C1098,Corporate,Chattogram,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Mobile App,Card,Delivered,18.99,9.2
+ORD-00369,2025-09-03,C1070,Consumer,Sylhet,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.1,Marketplace,Bank Transfer,Delivered,125.98,78.0
+ORD-00370,2025-06-13,C1150,Consumer,Dhaka,P001,Wireless Mouse,Electronics,2.0,18.99,0.0,Retail Store,Cash on Delivery,Delivered,37.98,18.4
+ORD-00371,2025-02-21,C1148,Small Business,Sylhet,P003,Notebook Set,Stationery,1.0,7.99,0.0,Website,Mobile Banking,Delivered,7.99,2.8
+ORD-00372,2025-03-30,C1180,Small Business,Rangpur,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.15,Marketplace,Card,Delivered,59.49,39.0
+ORD-00373,2025-10-16,C1126,Consumer,Sylhet,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Marketplace,Mobile Banking,Delivered,22.0,10.0
+ORD-00374,2025-01-29,C1085,Corporate,Sylhet,P002,USB-C Hub,Electronics,1.0,34.5,0.0,Retail Store,Card,Delivered,34.5,18.0
+ORD-00375,2025-03-08,C1151,Corporate,Dhaka,P004,Desk Lamp,Home Office,1.0,27.99,0.0,Website,Mobile Banking,Delivered,27.99,14.5
+ORD-00376,2025-02-26,C1087,Small Business,Rajshahi,P003,Notebook Set,Stationery,3.0,7.99,0.05,Retail Store,Card,Delivered,22.77,8.4
+ORD-00377,2025-03-11,C1045,Corporate,Rangpur,P006,Mechanical Keyboard,Electronics,5.0,69.99,0.2,Retail Store,Cash on Delivery,Delivered,279.96,195.0
+ORD-00378,2025-12-22,C1079,Corporate,Chattogram,P009,Monitor Stand,Furniture,3.0,39.0,0.15,Mobile App,Bank Transfer,Delivered,99.45,60.0
+ORD-00379,2025-03-07,C1047,Corporate,Sylhet,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Retail Store,Card,Returned,15.0,5.5
+ORD-00380,2025-11-10,C1020,Consumer,Khulna,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.15,Mobile App,Cash on Delivery,Delivered,59.49,39.0
+ORD-00381,2025-06-13,C1003,Small Business,Barishal,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Marketplace,Bank Transfer,Returned,69.99,39.0
+ORD-00382,2025-05-08,C1013,Small Business,Rangpur,P004,Desk Lamp,Home Office,2.0,27.99,0.05,Website,Card,Delivered,53.18,29.0
+ORD-00383,2025-08-03,C1026,Small Business,Khulna,P008,Office Chair,Furniture,4.0,149.0,0.1,Marketplace,Bank Transfer,Delivered,536.4,368.0
+ORD-00384,2025-11-30,C1076,Consumer,Khulna,P010,Laptop Sleeve,Accessories,2.0,22.0,0.0,Website,Card,Delivered,44.0,20.0
+ORD-00385,2025-05-14,C1020,Corporate,Chattogram,P006,Mechanical Keyboard,Electronics,4.0,69.99,0.0,Retail Store,Mobile Banking,Delivered,279.96,156.0
+ORD-00386,2025-06-23,C1168,Consumer,Barishal,P002,USB-C Hub,Electronics,2.0,34.5,0.15,Website,Bank Transfer,Delivered,58.65,36.0
+ORD-00387,2025-08-11,C1179,Corporate,Chattogram,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Mobile App,Bank Transfer,Delivered,22.0,10.0
+ORD-00388,2025-05-16,C1147,Corporate,Dhaka,P009,Monitor Stand,furniture,2.0,39.0,0.05,Website,Bank Transfer,Delivered,74.1,40.0
+ORD-00389,2025-03-20,C1052,Consumer,Dhaka,P008,Office Chair,Furniture,1.0,149.0,0.0,Marketplace,Bank Transfer,Delivered,149.0,92.0
+ORD-00390,2025-04-16,C1102,Small Business,Khulna,P001,Wireless Mouse,Electronics,1.0,18.99,0.05,Website,Cash on Delivery,Delivered,18.04,9.2
+ORD-00391,2025-12-05,C1098,Small Business,Khulna,P008,Office Chair,Furniture,1.0,149.0,0.2,Mobile App,Cash on Delivery,Cancelled,119.2,92.0
+ORD-00392,2025-08-17,C1145,Consumer,Rajshahi,P003,Notebook Set,Stationery,1.0,7.99,0.1,Mobile App,Cash on Delivery,Delivered,7.19,2.8
+ORD-00393,2025-12-23,C1142,Consumer,Rajshahi,P003,Notebook Set,Stationery,,7.99,0.0,Retail Store,Mobile Banking,Returned,15.98,5.6
+ORD-00394,2025-09-25,C1122,Small Business,Rangpur,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Retail Store,Mobile Banking,Returned,3.82,1.2
+ORD-00395,2025-07-22,C1115,Consumer,Sylhet,P002,USB-C Hub,Electronics,4.0,34.5,0.2,Mobile App,Card,Delivered,110.4,72.0
+ORD-00396,2025-04-19,C1052,Corporate,Khulna,P003,Notebook Set,Stationery,3.0,7.99,0.0,Website,Bank Transfer,Delivered,23.97,8.4
+ORD-00397,2025-11-01,C1142,Small Business,Dhaka,P003,Notebook Set,Stationery,1.0,7.99,0.2,Retail Store,Bank Transfer,Delivered,6.39,2.8
+ORD-00398,2025-09-24,C1107,Consumer,Sylhet,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Retail Store,Card,Returned,15.0,5.5
+ORD-00399,2025-10-18,C1138,Small Business,Sylhet,P003,Notebook Set,Stationery,2.0,7.99,0.0,Website,Cash on Delivery,Delivered,15.98,5.6
+ORD-00400,2025-05-16,C1045,Small Business,Sylhet,P007,Ballpoint Pens,Stationery,1.0,4.5,0.1,Retail Store,Card,Cancelled,4.05,1.2
+ORD-00401,2025-03-15,C1085,Corporate,Khulna,P007,Ballpoint Pens,Stationery,2.0,4.5,0.2,Website,Bank Transfer,Returned,7.2,2.4
+ORD-00402,2025-01-26,C1080,Small Business,Dhaka,P004,Desk Lamp,Home Office,2.0,27.99,0.05,Marketplace,Cash on Delivery,delivered,53.18,29.0
+ORD-00403,2025-12-23,C1069,Corporate,Rajshahi,P008,Office Chair,Furniture,2.0,149.0,0.0,Retail Store,Cash on Delivery,Delivered,298.0,184.0
+ORD-00404,2025-11-06,C1133,Small Business,Chattogram,P007,Ballpoint Pens,Stationery,2.0,4.5,0.0,Retail Store,Bank Transfer,Delivered,9.0,2.4
+ORD-00405,2025-09-21,C1135,Corporate,Barishal,P001,Wireless Mouse,Electronics,3.0,18.99,0.0,Retail Store,Mobile Banking,Delivered,56.97,27.6
+ORD-00406,2025-03-30,C1013,Small Business,Chattogram,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Website,Bank Transfer,Delivered,18.99,9.2
+ORD-00407,2025-05-21,C1062,Small Business,Khulna,P004,Desk Lamp,Home Office,1.0,27.99,0.1,Website,Card,Cancelled,25.19,14.5
+ORD-00408,2025-11-01,C1042,Small Business,Sylhet,P008,Office Chair,Furniture,1.0,149.0,0.1,Marketplace,Cash on Delivery,Cancelled,134.1,92.0
+ORD-00409,2025-05-26,C1166,Consumer,Rangpur,P002,USB-C Hub,Electronics,1.0,34.5,0.0,Mobile App,Mobile Banking,Delivered,34.5,18.0
+ORD-00410,2025-05-18,C1034,Corporate,Rangpur,P004,Desk Lamp,Home Office,2.0,27.99,0.15,Website,Bank Transfer,Delivered,47.58,29.0
+ORD-00411,2025-11-04,C1109,Small Business,Sylhet,P003,Notebook Set,Stationery,3.0,7.99,0.0,Marketplace,Cash on Delivery,Delivered,23.97,8.4
+ORD-00412,2025-08-24,C1002,Corporate,Barishal,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.1,Retail Store,Card,Delivered,62.99,39.0
+ORD-00413,2025-10-15,C1017,Small Business,Rajshahi,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.15,Website,Bank Transfer,Delivered,118.98,78.0
+ORD-00414,2025-11-24,C1039,Corporate,Barishal,P005,Water Bottle,Lifestyle,1.0,15.0,0.05,Marketplace,Mobile Banking,Delivered,14.25,5.5
+ORD-00415,2025-01-30,C1007,Corporate,,P004,Desk Lamp,Home Office,3.0,27.99,0.15,Marketplace,Mobile Banking,Delivered,71.37,43.5
+ORD-00416,2025-06-01,C1088,Corporate,Khulna,P008,Office Chair,Furniture,1.0,149.0,0.1,Website,Mobile Banking,Delivered,134.1,92.0
+ORD-00417,2025-12-18,C1169,Corporate,Rajshahi,P004,Desk Lamp,Home Office,2.0,27.99,0.1,Marketplace,Mobile Banking,Returned,50.38,29.0
+ORD-00418,2025-05-31,C1168,Consumer,Rajshahi,P003,Notebook Set,Stationery,1.0,7.99,0.0,Mobile App,Cash on Delivery,Returned,7.99,2.8
+ORD-00419,2025-07-01,C1067,Corporate,Rangpur,P004,Desk Lamp,Home Office,1.0,27.99,0.05,Marketplace,Cash on Delivery,Delivered,26.59,14.5
+ORD-00420,2025-08-26,C1050,Corporate,Rangpur,P005,Water Bottle,Lifestyle,3.0,15.0,0.1,Website,Bank Transfer,Delivered,40.5,16.5
+ORD-00421,2025-12-15,C1052,Small Business,Dhaka,P002,USB-C Hub,Electronics,1.0,34.5,0.05,Mobile App,Mobile Banking,Delivered,32.77,18.0
+ORD-00422,2025-10-19,C1125,Small Business,Rajshahi,P007,Ballpoint Pens,Stationery,3.0,4.5,0.1,Mobile App,Card,Delivered,12.15,3.6
+ORD-00423,2025-06-10,C1148,Consumer,Rajshahi,P003,Notebook Set,Stationery,2.0,7.99,0.0,Mobile App,Mobile Banking,Delivered,15.98,5.6
+ORD-00424,2025-02-15,C1123,Small Business,Khulna,P008,Office Chair,Furniture,1.0,149.0,0.1,Retail Store,Bank Transfer,Returned,134.1,92.0
+ORD-00425,2025-01-20,C1005,Corporate,Dhaka,P001,Wireless Mouse,Electronics,2.0,18.99,0.2,Marketplace,Mobile Banking,Delivered,30.38,18.4
+ORD-00426,2025-11-17,C1027,Small Business,Rajshahi,P001,Wireless Mouse,Electronics,2.0,18.99,0.0,Marketplace,Mobile Banking,Returned,37.98,18.4
+ORD-00427,2025-10-29,C1134,Corporate,Rajshahi,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Marketplace,Bank Transfer,Delivered,39.0,20.0
+ORD-00428,2025-06-22,C1049,Consumer,Rajshahi,P009,Monitor Stand,Furniture,1.0,39.0,0.2,Retail Store,Cash on Delivery,Delivered,31.2,20.0
+ORD-00429,2025-01-10,C1032,Small Business,Chattogram,P007,Ballpoint Pens,Stationery,1.0,4.5,0.2,Website,Mobile Banking,Delivered,3.6,1.2
+ORD-00430,2025-07-12,C1170,Consumer,Sylhet,P001,Wireless Mouse,Electronics,3.0,18.99,0.05,Website,Card,Cancelled,54.12,27.6
+ORD-00431,2025-01-25,C1122,Corporate,Khulna,P001,Wireless Mouse,Electronics,2.0,18.99,0.1,Website,Cash on Delivery,Delivered,34.18,18.4
+ORD-00432,2025-04-16,C1170,Corporate,Rajshahi,P003,Notebook Set,Stationery,2.0,7.99,0.2,Retail Store,Card,Delivered,12.78,5.6
+ORD-00433,2025-11-15,C1073,Consumer,Rangpur,P005,Water Bottle,Lifestyle,2.0,15.0,0.0,Website,Card,Delivered,30.0,11.0
+ORD-00434,2025-09-12,C1105,Small Business,Rangpur,P002,USB-C Hub,Electronics,1.0,34.5,0.0,Mobile App,Cash on Delivery,Delivered,34.5,18.0
+ORD-00435,2025-01-21,C1001,Consumer,Khulna,P003,Notebook Set,Stationery,2.0,7.99,0.0,Marketplace,Mobile Banking,Returned,15.98,5.6
+ORD-00436,2025-02-26,C1026,Small Business,Chattogram,P002,USB-C Hub,Electronics,3.0,34.5,,Website,Card,Delivered,82.8,54.0
+ORD-00437,2025-08-22,C1045,Consumer,Khulna,P004,Desk Lamp,Home Office,5.0,27.99,0.05,Website,Card,Delivered,132.95,72.5
+ORD-00438,2025-07-04,C1012,Consumer,Barishal,P005,Water Bottle,Lifestyle,3.0,15.0,0.05,Website,Card,Delivered,42.75,16.5
+ORD-00439,2025-12-06,C1096,Small Business,Khulna,P003,Notebook Set,Stationery,2.0,7.99,0.05,Marketplace,Card,Delivered,15.18,5.6
+ORD-00440,2025-02-28,C1108,Corporate,Rangpur,P003,Notebook Set,Stationery,1.0,7.99,0.1,Retail Store,Bank Transfer,Delivered,7.19,2.8
+ORD-00441,2025-02-27,C1107,Corporate,Rangpur,P003,Notebook Set,Stationery,1.0,7.99,0.2,Mobile App,Card,Delivered,6.39,2.8
+ORD-00442,2025-10-19,C1176,Corporate,Khulna,P008,Office Chair,Furniture,2.0,149.0,0.0,Marketplace,Card,Cancelled,298.0,184.0
+ORD-00443,2025-09-05,C1067,Corporate,Khulna,P003,Notebook Set,Stationery,4.0,7.99,0.0,Website,Card,Delivered,31.96,11.2
+ORD-00444,2025-01-07,C1133,Corporate,Rangpur,P006,Mechanical Keyboard,Electronics,2.0,69.99,0.2,Mobile App,Cash on Delivery,Cancelled,111.98,78.0
+ORD-00445,2025-02-18,C1039,Corporate,Khulna,P010,Laptop Sleeve,Accessories,1.0,22.0,0.2,Marketplace,Bank Transfer,Delivered,17.6,10.0
+ORD-00446,2025-01-28,C1043,Consumer,Rangpur,P010,Laptop Sleeve,Accessories,1.0,22.0,0.0,Retail Store,Bank Transfer,Cancelled,22.0,10.0
+ORD-00447,2025-06-14,C1104,Consumer,Sylhet,P008,Office Chair,Furniture,1.0,,0.05,Mobile App,Bank Transfer,Delivered,141.55,92.0
+ORD-00448,2025-08-24,C1081,Consumer,Dhaka,P002,USB-C Hub,Electronics,1.0,34.5,0.15,Retail Store,Bank Transfer,Delivered,29.32,18.0
+ORD-00449,2025-12-01,C1155,Corporate,Dhaka,P008,Office Chair,Furniture,1.0,149.0,0.1,Website,Card,Delivered,134.1,92.0
+ORD-00450,2025-09-18,C1014,Consumer,Khulna,P005,Water Bottle,Lifestyle,2.0,15.0,0.2,Marketplace,Cash on Delivery,Returned,24.0,11.0
+ORD-00451,2025-06-19,C1030,Consumer,Khulna,P008,Office Chair,Furniture,2.0,149.0,0.15,Marketplace,Bank Transfer,Cancelled,253.3,184.0
+ORD-00452,2025-01-02,C1012,Consumer,Sylhet,P004,Desk Lamp,Home Office,1.0,27.99,0.2,Marketplace,,Delivered,22.39,14.5
+ORD-00453,2025-03-13,C1157,Consumer,Khulna,P008,Office Chair,Furniture,3.0,149.0,0.2,Website,Cash on Delivery,Returned,357.6,276.0
+ORD-00454,2025-03-03,C1028,Small Business,Khulna,P004,Desk Lamp,Home Office,4.0,27.99,0.1,Mobile App,Cash on Delivery,Delivered,100.76,58.0
+ORD-00455,2025-11-21,C1169,Corporate,Rangpur,P001,Wireless Mouse,Electronics,3.0,18.99,0.15,Retail Store,Bank Transfer,Delivered,48.42,27.6
+ORD-00456,2025-03-10,C1150,Small Business,Barishal,P009,Monitor Stand,Furniture,4.0,39.0,0.0,Website,Bank Transfer,Cancelled,156.0,80.0
+ORD-00457,2025-04-01,C1100,Corporate,Rangpur,P009,Monitor Stand,Furniture,2.0,39.0,0.0,Mobile App,Card,Returned,78.0,40.0
+ORD-00458,2025-11-07,C1102,Small Business,Khulna,P010,Laptop Sleeve,Accessories,3.0,22.0,0.15,Mobile App,Cash on Delivery,Delivered,56.1,30.0
+ORD-00459,2025-08-20,C1142,Corporate,Sylhet,P005,Water Bottle,Lifestyle,3.0,15.0,0.0,Marketplace,Cash on Delivery,Delivered,45.0,16.5
+ORD-00460,2025-04-13,C1167,Consumer,Barishal,P004,Desk Lamp,Home Office,1.0,27.99,0.2,Marketplace,Mobile Banking,Delivered,22.39,14.5
+ORD-00461,2025-10-05,C1150,Corporate,Dhaka,P009,Monitor Stand,Furniture,2.0,39.0,0.05,Marketplace,Bank Transfer,Returned,74.1,40.0
+ORD-00462,2025-12-12,C1134,Consumer,Rangpur,P007,Ballpoint Pens,Stationery,2.0,4.5,0.15,Retail Store,Card,Delivered,7.65,2.4
+ORD-00463,2025-07-15,C1074,Corporate,Chattogram,P001,Wireless Mouse,Electronics,1.0,18.99,0.2,Marketplace,Mobile Banking,Delivered,15.19,9.2
+ORD-00464,2025-03-16,C1116,Consumer,Chattogram,P005,Water Bottle,Lifestyle,3.0,15.0,0.2,Website,Cash on Delivery,Delivered,36.0,16.5
+ORD-00465,2025-12-12,C1131,Corporate,Barishal,P010,Laptop Sleeve,Accessories,2.0,22.0,0.0,Retail Store,Mobile Banking,Returned,44.0,20.0
+ORD-00466,2025-12-21,C1004,Corporate,Khulna,P005,Water Bottle,Lifestyle,2.0,15.0,0.1,Marketplace,Card,Delivered,27.0,11.0
+ORD-00467,2025-04-14,C1050,Small Business,Barishal,P005,Water Bottle,Lifestyle,2.0,15.0,0.1,Marketplace,Mobile Banking,Delivered,27.0,11.0
+ORD-00468,2025-04-01,C1011,Small Business,Chattogram,P008,Office Chair,Furniture,5.0,149.0,0.0,Website,Bank Transfer,Delivered,745.0,460.0
+ORD-00469,2025-10-12,C1085,Small Business,Rangpur,P005,Water Bottle,Lifestyle,1.0,15.0,0.0,Marketplace,Card,Cancelled,15.0,5.5
+ORD-00470,2025-01-21,C1147,Corporate,Dhaka,P003,Notebook Set,Stationery,1.0,7.99,0.05,Marketplace,Bank Transfer,Cancelled,7.59,2.8
+ORD-00471,2025-02-07,C1130,Consumer,Chattogram,P006,Mechanical Keyboard,Electronics,3.0,69.99,0.05,Mobile App,Card,Cancelled,199.47,117.0
+ORD-00472,2025-10-06,C1085,Small Business,Chattogram,P007,Ballpoint Pens,Stationery,2.0,4.5,0.0,Mobile App,Cash on Delivery,Delivered,9.0,2.4
+ORD-00473,2025-04-22,C1172,Small Business,Khulna,P005,Water Bottle,Lifestyle,4.0,15.0,0.15,Website,Card,Cancelled,51.0,22.0
+ORD-00474,2025-05-04,C1098,Consumer,Chattogram,P008,Office Chair,Furniture,4.0,149.0,0.15,Website,Cash on Delivery,Cancelled,506.6,368.0
+ORD-00475,2025-05-12,C1125,Consumer,Sylhet,P007,Ballpoint Pens,Stationery,2.0,4.5,0.05,Marketplace,Bank Transfer,Delivered,8.55,2.4
+ORD-00476,2025-11-30,C1161,Consumer,Dhaka,P005,Water Bottle,Lifestyle,1.0,15.0,0.15,Mobile App,Card,Delivered,12.75,5.5
+ORD-00477,2025-12-10,C1138,Corporate,Khulna,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Website,Mobile Banking,Returned,55.98,29.0
+ORD-00478,2025-11-28,C1118,Corporate,Barishal,P007,Ballpoint Pens,Stationery,3.0,4.5,0.0,Mobile App,Card,Returned,13.5,3.6
+ORD-00479,2025-01-20,C1148,Consumer,Rangpur,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Marketplace,Card,Delivered,69.99,39.0
+ORD-00480,2025-07-28,C1100,Corporate,Khulna,P005,Water Bottle,Lifestyle,1.0,15.0,0.2,Marketplace,Card,Delivered,12.0,5.5
+ORD-00481,2025-10-01,C1092,Corporate,Dhaka,P002,USB-C Hub,Electronics,1.0,34.5,0.2,Website,Card,Cancelled,27.6,18.0
+ORD-00482,2025-05-29,C1098,Small Business,Dhaka,P002,USB-C Hub,Electronics,3.0,34.5,0.05,Marketplace,Bank Transfer,Cancelled,98.32,54.0
+ORD-00483,2025-08-31,C1163,Consumer,Barishal,P001,Wireless Mouse,Electronics,1.0,18.99,0.0,Retail Store,Cash on Delivery,Delivered,18.99,9.2
+ORD-00484,2025-12-13,C1032,Consumer,Rajshahi,P005,Water Bottle,Lifestyle,3.0,15.0,0.2,Website,Mobile Banking,Returned,36.0,16.5
+ORD-00485,2025-10-21,C1089,Consumer,Dhaka,P001,Wireless Mouse,electronics,2.0,18.99,0.15,Marketplace,Mobile Banking,Cancelled,32.28,18.4
+ORD-00486,2025-11-27,C1050,Consumer,Chattogram,P007,Ballpoint Pens,Stationery,3.0,4.5,0.0,Mobile App,Cash on Delivery,Delivered,13.5,3.6
+ORD-00487,2025-12-10,C1172,Consumer,Khulna,P003,Notebook Set,Stationery,3.0,7.99,0.0,Website,Cash on Delivery,Cancelled,23.97,8.4
+ORD-00488,2025-02-20,C1172,Corporate,Rajshahi,P005,Water Bottle,Lifestyle,1.0,15.0,0.15,Marketplace,Mobile Banking,Delivered,12.75,5.5
+ORD-00489,2025-02-21,C1085,Corporate,Rajshahi,P004,Desk Lamp,Home Office,1.0,27.99,0.0,Retail Store,Bank Transfer,Delivered,27.99,14.5
+ORD-00490,2025-12-22,C1044,Consumer,Rajshahi,P005,Water Bottle,Lifestyle,2.0,15.0,0.15,Marketplace,Bank Transfer,Cancelled,25.5,11.0
+ORD-00491,2025-05-07,C1093,Consumer,Barishal,P006,Mechanical Keyboard,Electronics,3.0,69.99,0.2,Retail Store,Cash on Delivery,Returned,167.98,117.0
+ORD-00492,2025-09-03,C1166,Corporate,Khulna,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.05,Website,Mobile Banking,Delivered,66.49,39.0
+ORD-00493,2025-05-24,C1020,Consumer,Chattogram,P002,USB-C Hub,Electronics,3.0,34.5,0.0,Marketplace,Card,Cancelled,103.5,54.0
+ORD-00494,2025-11-20,C1142,Small Business,Khulna,P009,Monitor Stand,Furniture,1.0,39.0,0.15,Mobile App,Card,Cancelled,33.15,20.0
+ORD-00495,2025-10-04,C1035,Small Business,Khulna,P009,Monitor Stand,Furniture,1.0,39.0,0.0,Mobile App,Cash on Delivery,Delivered,39.0,20.0
+ORD-00496,2025-09-19,C1132,Consumer,Dhaka,P009,Monitor Stand,Furniture,1.0,39.0,0.05,Mobile App,Mobile Banking,Cancelled,37.05,20.0
+ORD-00497,2025-03-23,C1092,Consumer,Rangpur,P008,Office Chair,Furniture,1.0,149.0,0.15,Mobile App,Bank Transfer,Returned,126.65,92.0
+ORD-00498,2025-09-07,C1133,Small Business,dhaka ,P004,Desk Lamp,Home Office,1.0,27.99,0.05,Website,Mobile Banking,Delivered,26.59,14.5
+ORD-00499,2025-08-29,C1134,Corporate,Barishal,P007,Ballpoint Pens,Stationery,4.0,4.5,0.0,Marketplace,Card,Delivered,18.0,4.8
+ORD-00500,2025-05-15,C1151,Corporate,Khulna,P005,Water Bottle,Lifestyle,2.0,15.0,0.15,Retail Store,Cash on Delivery,Delivered,25.5,11.0
+ORD-00025,2025-02-25,C1047,Small Business,Khulna,P006,Mechanical Keyboard,Electronics,1.0,69.99,0.0,Mobile App,Bank Transfer,Cancelled,69.99,39.0
+ORD-00120,2025-03-31,C1066,Small Business,Sylhet,P007,Ballpoint Pens,Stationery,1.0,4.5,0.15,Marketplace,Mobile Banking,Delivered,3.82,1.2
+ORD-00245,2025-10-21,C1175,Consumer,Rangpur,P004,Desk Lamp,Home Office,2.0,27.99,0.0,Retail Store,Card,Delivered,55.98,29.0
